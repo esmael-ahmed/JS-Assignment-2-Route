@@ -1,0 +1,23 @@
+
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+    margin: 55px 0;
+}
+
+.firspar {
+    font-size: 35px;
+    margin: 35px 0;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue !important;
+    color: white !important;
+    transition: all 0.3s;
+}
+
+button:hover {
+    background-color: green !important;
+}
